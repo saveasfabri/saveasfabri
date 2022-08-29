@@ -13,7 +13,7 @@
 <!-- ********* Line ********* -->
 <img width="100%" height="10px" src="https://media.giphy.com/media/KuJaOV4ZHsk3SlgIUi/giphy.gif" alt="line">
 
-<h2 align="center"> Hello there...</h1>
+<h1 align="center"> Hello there...</h1>
 <div align="center">  
   <p>
     👍 I'm Fabricio, a web designer, I really like design and bringing code to life. 👍
@@ -32,7 +32,7 @@
 
 <!-- ********* Title ********* -->
 <img width="50" height="50" align="left" src="assets/octocat-jedi.png" alt="octocat Jedi">
-<h3>This says the octocat of my repos:</h3>
+<h2>This says the octocat of my repos:</h2>
 <p align="right">.</p>
 
 <!-- ********* Stats ********* -->
@@ -52,7 +52,7 @@
 <p color="black" align="right">.</p>
 
 <!-- ****** Langueges ****** -->
-<h3>This is how it was spoken in the projects:</h3>
+<h2>This is how it was spoken in the projects:</h2>
 <p align="right">.</p>
 
 <div align="center">
