@@ -52,6 +52,7 @@
 <p color="black" align="right">.</p>
 
 <!-- ****** Langueges ****** -->
+<img width="50" height="50" align="left" src="assets/octocat-detected.png" alt="octocat detected">
 <h2>This is how it was spoken in the projects:</h2>
 <p align="right">.</p>
 
@@ -60,24 +61,12 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=saveasfabri&show_icons=true&theme=blueberry&hide_border=true"
       alt="Most Used Languages" />
   <div>
-    <a href="" target="_blank">
       <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="100" height="100"/>
-    </a>
-    <a href="" target="_blank">
       <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="100" height="100"/>
-    </a>
-    <a href="" target="_blank">
       <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="100" height="100"/>
-    </a>
-    <a href="" target="_blank">
       <img src="assets/sass.png" alt="SASS" width="90px" height="90px"/>
-    </a>
-    <a href="" target="_blank">
-      <img src="assets/C.png" alt="Markdown" height="100" width="100" />
-    </a>
-    <a href="" target="_blank">
-      <img src="assets/C.png" alt="Markdown" height="100" width="100" />
-    </a>
+      <img src="assets/C.png" alt="C#" height="100" width="100" />
+      <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="React" height="100" width="100"/>
   </div>
 </div>  
 <p align="right">.</p>
