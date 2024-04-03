@@ -77,14 +77,14 @@
 
 <!-- ****** F_T_Rex ****** -->
 <!-- **In Dark/Light mode** -->
-<div  align="center">
+<!--<div  align="center">
   <picture>
     <source width="60%" media="(prefers-color-scheme: dark)" src="assets/fa_t-rex_blue.gif">
     <source width="60%" media="(prefers-color-scheme: light)" src="assets/fa_t-rex_white.gif">
     <img width="60%" alt="Shows an illustrated rex in light color mode and a rex in dark color mode." src="assets/fa_t-rex_blue.gif">
   </picture>
 </div>
-<p align="right">.</p>
+<p align="right">.</p>-->
 
 
 <!-- ********* FBtns ********* -->
